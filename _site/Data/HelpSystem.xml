@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebHelpSystem DefaultUrl="Content/Home.htm" Toc="Data/Tocs/TOC.js" Index="Data/Index.js" Concepts="Data/Concepts.js" Glossary="Data/Glossary.js" SearchDatabase="Data/Search.js" Synonyms="Data/Synonyms.xml" PathToScriptsFolder="Resources/Scripts/" SkinName="Tripane" SkinID="Tripane" Multilingual="false" Skins="Tripane" BuildTime="4/18/2022 8:45:36 PM" BuildVersion="17.2.8047.30191" TargetType="WebHelp2" SkinTemplateFolder="Skin/" InPreviewMode="false" TopNavTocPath="true" MoveOutputContentToRoot="false" ReplaceReservedCharacters="false" MakeFileLowerCase="false" UseCustomTopicFileExtension="false" PreventExternalUrls="false" EnableResponsiveOutput="true" IncludeGlossarySearchResults="true" ResultsPerPage="20" xml:lang="en-us" LanguageName="English" SearchEngine="MadCapSearch" IncludeCSHRuntime="true" DebugMode="false" ShowMadCapBacklink="true" HasELearning="false">
+    <CatapultSkin Version="4" SkinType="WebHelp2" Comment="HTML5 Default Tripane skin" Anchors="Width,Height" Width="800" Height="600" Top="0" Left="0" Bottom="0" Right="0" Tabs="TOC,Index" DefaultTab="TOC" UseBrowserDefaultSize="True" UseDefaultBrowserSetup="True" EnableResponsiveOutput="True" AutoSyncTOC="true" RemoveImagesOnSave="true" Name="Tripane" SkinID="Tripane" SkinClass="_Skins_Tripane" HideNavOnStartup="False" LogoUrl="">
+        <WebHelpOptions />
+        <Toolbar EnableCustomLayout="true" Buttons="Print|ExpandAll|RemoveHighlight|Filler|PreviousTopic|NextTopic" />
+    </CatapultSkin>
+</WebHelpSystem>
