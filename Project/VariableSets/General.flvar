@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="OverDrive, INC">OverDrive, INC</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber"
+    EvaluatedDefinition="443 360 1160">443 360 1160</Variable>
+  <Variable
+    Name="Email"
+    Comment=""
+    EvaluatedDefinition="tylerupright321@gmail.com">tylerupright321@gmail.com</Variable>
+  <Variable
+    Name="StreetAddress"
+    Comment=""
+    EvaluatedDefinition="12345 Main st">12345 Main st</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    EvaluatedDefinition="Columbia, MD 21045">Columbia, MD 21045</Variable>
+</CatapultVariableSet>

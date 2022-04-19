@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="f32-preview.awardspace.net"
+  User="MyAccountId"
+  Password=""
+  Directory="/home/www/tyleruprightlibbydoc.mypressonline.com"
+  Port="21"
+  ViewUrl=" http://uprightportfolio.byethost16.com"
+  Type="ftp"
+  DestinationId="d821523e-0614-4c17-8b9a-0024f44c7977"
+  SandboxLogin="false"></CatapultDestination>

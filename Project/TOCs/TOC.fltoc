@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="Setting Up"
+    Link="/Content/A - Setting Up/Installation Guide.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A - Setting Up/Installation Guide.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A - Setting Up/Setting Up Your Library Card.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Beginners Guide"
+    Link="/Content/B - Beginners Guide/The Different Forms of Literature.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B - Beginners Guide/The Different Forms of Literature.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Handling the Different Forms of Literature"
+      Link="/Content/B - Beginners Guide/Handling the Different Forms of Literature.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B - Beginners Guide/Settings and Accessibility.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/D-Reference/FAQs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/D-Reference/Company.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+</CatapultToc>

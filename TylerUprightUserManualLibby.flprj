@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterStylesheetOverride="True" xml:lang="en-us" Comment="This template contains several starter topics and other files intended for online HTML5 output with a traditional tripane format. One frame holds the navigation panes, a second frame displays search and a toolbar, and the third frame contains the topic content. Responsive output is automatically enabled with this type of output.">
+    <Synchronize>
+        <Mapping ProjectPath="Content/Resources/Images/SearchImage.jpg" ExternalPath="file:///C:/Users/tyler/Desktop/MadCap Flare Pics/SearchImage.jpg" />
+        <Mapping ProjectPath="Content/Resources/Images/CardStats.jpg" ExternalPath="file:///C:/Users/tyler/Desktop/MadCap Flare Pics/CardStats.jpg" />
+        <Mapping ProjectPath="Content/Resources/Images/Filters.jpg" ExternalPath="file:///C:/Users/tyler/Desktop/MadCap Flare Pics/Filters.jpg" />
+        <Mapping ProjectPath="Content/Resources/Images/LoanTime.jpg" ExternalPath="file:///C:/Users/tyler/Desktop/MadCap Flare Pics/LoanTime.jpg" />
+        <Mapping ProjectPath="Content/Resources/Images/Settings1.jpg" ExternalPath="file:///C:/Users/tyler/Desktop/MadCap Flare Pics/Settings1.jpg" />
+        <Mapping ProjectPath="Content/Resources/Images/Settings2.jpg" ExternalPath="file:///C:/Users/tyler/Desktop/MadCap Flare Pics/Settings2.jpg" />
+        <Mapping ProjectPath="Content/Resources/Images/library-128.jpg" ExternalPath="file:///C:/Users/tyler/Desktop/MadCap Flare Stuffs/library-128.jpg" />
+        <Mapping ProjectPath="Content/Resources/Images/LibraryCardIMG.png" ExternalPath="file:///C:/Users/tyler/Downloads/LibraryCardIMG.png" />
+    </Synchronize>
+</CatapultProject>
